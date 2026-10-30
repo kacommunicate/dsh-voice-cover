@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+.env
+*.pth
+*.index
+*.wav
+*.mp3
+*.flac
+*.silk
+models/
+data/
+.venv*/
